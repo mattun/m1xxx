@@ -3,4 +3,4 @@
 cd "$(dirname $0)/.."
 set -e
 
-(cd mixxx && rm -rf build)
+(cd mixxx && rm -rf build && cd ../ && rm -rf vcpkg/installed && rm -rf vcpkg/buildtrees)

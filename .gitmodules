@@ -1,8 +1,8 @@
 [submodule "vcpkg"]
 	path = vcpkg
-	url = https://github.com/mixxxdj/vcpkg.git
+	url = git@meganebu-github:mattun/vcpkg.git
 	branch = 2.5
 [submodule "mixxx"]
 	path = mixxx
-	url = https://github.com/mixxxdj/mixxx.git
+	url = git@meganebu-github:mattun/mixxx.git
 	branch = main
